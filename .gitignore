@@ -1,3 +1,6 @@
 *.pth
 .venv
 __pycache__
+*.npy
+*.pth
+*.mp4

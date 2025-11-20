@@ -2,3 +2,5 @@ torch
 accelerate
 matplotlib
 tqdm
+swig
+gymnasium[box2d]
